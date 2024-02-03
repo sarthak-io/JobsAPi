@@ -1,6 +1,9 @@
 Flask
 Flask-CORS
-qiskit
+beautifulsoup4
+requests
+Werkzeug
+gunicorn
 
 
 
